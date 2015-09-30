@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋宗朱辨義
-#+DATE: 2015-09-23 09:40:38
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:17:21.230313
+#+PROPERTY: ID KR1e0109
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1e0109_WYG_000-1a>¶
 欽定四庫全書　　　　　經部五¶
 　春秋宗朱辨義　　　　　春秋類¶
@@ -29,6 +31,7 @@
 　　　　矣乾隆四十四年正月恭校上¶
 　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 總論
 <pb:KR1e0109_WYG_000-3a>¶
 春秋宗朱辨義總論¶
 　經㫖先儒講解切當不可易者不再𤼵明其前人不¶
@@ -299,4 +302,3 @@
 　¶
 　¶
 　春秋宗朱辨義總論¶
-
